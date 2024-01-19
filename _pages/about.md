@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+🚀 [2024.01.19] New Blog Post: [ESPnet Hackathon 2023](/posts/2024/01/blog-post-1/)✨
+
 Hello! My name is **Hsiu-Hsuan Wang**, and I am an undergraduate student at National Taiwan University. I will join the Graduate Institute of Electrical Engineering (Computer Science group) to pursue my  my Master's degree. I am fortunate to have **Prof. Hung-Yi Lee** as my advisor for my Master's degree.
 
 My undergraduate research projects involved weakly-supervised learning, supervised by **Prof. Hsuan-Tien Lin**, and speech dialogue modeling, supervised by **Prof. Hung-Yi Lee**.
