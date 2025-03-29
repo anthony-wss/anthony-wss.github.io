@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🚀 [2024.01.19] New Blog Post: [ESPnet Hackathon 2023](/posts/2024/01/blog-post-1/)✨
+Hello! My name is **Hsiu-Hsuan Wang**.
 
-Hello! My name is **Hsiu-Hsuan Wang**, and I am an graduate student at Electrical Engineering Computer Science, National Taiwan University. Fortunate to have Prof. Hung-Yi Lee as the advisor for my Master's degree. My research interests include speech language modeling, speech recognition, and speech codec.
+I am an graduate student at Electrical Engineering Computer Science, National Taiwan University. Fortunate to have Prof. Hung-Yi Lee as the advisor for my Master's degree. My research interests include speech language modeling, speech recognition, and speech codec.
 
-My undergraduate research projects involved weakly-supervised learning, supervised by **Prof. Hsuan-Tien Lin**, and speech dialogue modeling, supervised by **Prof. Hung-Yi Lee**.
+I write public journal at [Threads](https://www.threads.net/@tony.ai.engineer) with 2.9k+ followers.✨
 
 Publications
 ---
