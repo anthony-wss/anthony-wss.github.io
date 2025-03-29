@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[2025.03.28] New talk: invited talk in Prof. Hung-Yi Lee's Machine Learning 2025 course: Training LLMs with multiple GPUs -- [Watch the video](https://www.youtube.com/watch?v=mpuRca2UZtI)✨
+
 Hello! My name is **Hsiu-Hsuan Wang**.
 
 I am an graduate student at Electrical Engineering Computer Science, National Taiwan University. Fortunate to have Prof. Hung-Yi Lee as the advisor for my Master's degree. My research interests include speech language modeling, speech recognition, and speech codec.
